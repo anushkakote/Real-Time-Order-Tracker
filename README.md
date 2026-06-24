@@ -1,4 +1,4 @@
-# Real-Time Order Tracker
+# Real Time Event Streaming Platform 
 
 A microservices-based system that pushes live database changes to connected clients. Built with PostgreSQL, Kafka, WebSockets, and Docker.
 
